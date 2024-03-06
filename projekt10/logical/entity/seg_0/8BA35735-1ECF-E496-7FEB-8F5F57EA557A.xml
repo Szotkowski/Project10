@@ -39,7 +39,7 @@
 <use>0</use>
 <ownDataTypeParameters>,,</ownDataTypeParameters>
 </Attribute>
-<Attribute name="sklizeno" id="E335F1C0-DA81-6818-3CA8-150033CA3D54">
+<Attribute name="sklizeno_kg" id="E335F1C0-DA81-6818-3CA8-150033CA3D54">
 <createdBy>Michael Szotkowski</createdBy>
 <createdTime>2024-03-02 21:55:49 UTC</createdTime>
 <ownerDesignName>projekt10</ownerDesignName>

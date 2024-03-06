@@ -1,9 +1,8 @@
 <?xml version = '1.0' encoding = 'UTF-8'?>
-<Entity class="oracle.dbtools.crest.model.design.logical.Entity" directorySegmentName="seg_0" id="802E6D05-5B2E-6D7E-0175-102858E402F0" name="Plodina">
+<Entity class="oracle.dbtools.crest.model.design.logical.Entity" directorySegmentName="seg_0" id="D4525073-5D12-E305-D230-5455711098B6" name="Prodej">
 <createdBy>Michael Szotkowski</createdBy>
-<createdTime>2024-03-02 21:55:49 UTC</createdTime>
+<createdTime>2024-03-06 09:14:51 UTC</createdTime>
 <ownerDesignName>projekt10</ownerDesignName>
-<importedID>C3F14A1F-3BF4-7A3A-85E3-41197CDBAC7A</importedID>
 <engineerTo>
 <item key="1D272C95-826D-7FFA-065E-B3330CEAC0FE" value="true"/>
 </engineerTo>
@@ -16,22 +15,22 @@
 <minVolumes>0</minVolumes>
 <normalForm>Third</normalForm>
 <attributes itemClass="oracle.dbtools.crest.model.design.logical.Attribute">
-<Attribute name="id_plodina" id="D1223D93-054D-3B8E-F5AD-0F63FA27D48A">
+<Attribute name="id_prodej" id="F420658D-7C2D-FDF0-6AC7-ED9EB3A977C4">
 <createdBy>Michael Szotkowski</createdBy>
-<createdTime>2024-03-02 21:55:49 UTC</createdTime>
+<createdTime>2024-03-06 09:14:51 UTC</createdTime>
 <ownerDesignName>projekt10</ownerDesignName>
-<importedID>AE35CD2F-024C-A4EF-EC94-CD7023C85FEF</importedID>
+<importedID>E97B4766-CDCE-B61B-E572-982CBB256918</importedID>
 <engineerTo>
 <item key="1D272C95-826D-7FFA-065E-B3330CEAC0FE" value="true"/>
 </engineerTo>
 <use>0</use>
 <ownDataTypeParameters>,,</ownDataTypeParameters>
 </Attribute>
-<Attribute name="typ_plodiny" id="B45F445D-A028-B44C-FD15-CAFA4AEA588F">
+<Attribute name="kolik_se_prodalo" id="A2C3856B-09A3-ECA5-9A8F-D985BD9CC3B8">
 <createdBy>Michael Szotkowski</createdBy>
-<createdTime>2024-03-02 21:55:49 UTC</createdTime>
+<createdTime>2024-03-06 09:14:51 UTC</createdTime>
 <ownerDesignName>projekt10</ownerDesignName>
-<importedID>0F90AEE6-52D8-CAAF-AA2A-E009E3A7D54B</importedID>
+<importedID>64C772B4-617A-6864-B604-2FF252958EA3</importedID>
 <engineerTo>
 <item key="1D272C95-826D-7FFA-065E-B3330CEAC0FE" value="true"/>
 </engineerTo>
@@ -39,11 +38,11 @@
 <use>0</use>
 <ownDataTypeParameters>,,</ownDataTypeParameters>
 </Attribute>
-<Attribute name="odruda_plodiny" id="4C6798CE-2637-9DF4-1AA0-D47E2302D549">
+<Attribute name="cena_za_kg" id="D5CAEAF5-09E5-0603-F3AA-E50ACD428F31">
 <createdBy>Michael Szotkowski</createdBy>
-<createdTime>2024-03-02 21:55:49 UTC</createdTime>
+<createdTime>2024-03-06 09:14:51 UTC</createdTime>
 <ownerDesignName>projekt10</ownerDesignName>
-<importedID>F064EEB7-7CAB-18AA-1768-72C7F64C3E2B</importedID>
+<importedID>351E47C9-21DA-AB63-D5D0-E1BE97184EA8</importedID>
 <engineerTo>
 <item key="1D272C95-826D-7FFA-065E-B3330CEAC0FE" value="true"/>
 </engineerTo>
@@ -51,30 +50,42 @@
 <use>0</use>
 <ownDataTypeParameters>,,</ownDataTypeParameters>
 </Attribute>
-<Attribute name="datum_zasazeni" id="0B9A0CEF-C7E8-2F31-4BDC-076EE513B011">
+<Attribute name="id_mostarna" id="AF54BF24-C7AB-72B2-4725-F112DCE62342">
 <createdBy>Michael Szotkowski</createdBy>
-<createdTime>2024-03-06 07:57:51 UTC</createdTime>
+<createdTime>2024-03-06 10:59:43 UTC</createdTime>
+<generatorID>16BEBDC1-44AA-D297-FAAF-833AA5C0784C</generatorID>
 <ownerDesignName>projekt10</ownerDesignName>
 <engineerTo>
 <item key="1D272C95-826D-7FFA-065E-B3330CEAC0FE" value="true"/>
 </engineerTo>
-<nullsAllowed>true</nullsAllowed>
+<referedAttribute>EA0AFA2A-44FC-C05C-1F7E-B31B9E9FD410</referedAttribute>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="id_sklizen" id="FA5A12F7-9099-B6D5-404A-81AF29A98ADF">
+<createdBy>Michael Szotkowski</createdBy>
+<createdTime>2024-03-06 11:01:03 UTC</createdTime>
+<generatorID>0FFB98B3-53F4-E72C-6178-CAAA1DA53A22</generatorID>
+<ownerDesignName>projekt10</ownerDesignName>
+<engineerTo>
+<item key="1D272C95-826D-7FFA-065E-B3330CEAC0FE" value="true"/>
+</engineerTo>
+<referedAttribute>C3A836F7-BFB7-E5DC-77AB-9F4AAF98D2F8</referedAttribute>
 <use>0</use>
 <ownDataTypeParameters>,,</ownDataTypeParameters>
 </Attribute>
 </attributes>
 <identifiers itemClass="oracle.dbtools.crest.model.design.logical.CandidateKey">
-<identifier id="FDEE8B1D-DDAA-08A5-008C-3C9190B8F0CE" name="Plodina PK">
+<identifier id="53A3C174-A618-99FF-E377-353033E6A79B" name="prodej PK">
 <createdBy>Michael Szotkowski</createdBy>
-<createdTime>2024-03-02 21:55:49 UTC</createdTime>
+<createdTime>2024-03-06 09:14:51 UTC</createdTime>
 <ownerDesignName>projekt10</ownerDesignName>
-<importedID>BAA621C8-A8FD-632B-BA69-F5E96CB7AE88</importedID>
 <engineerTo>
 <item key="1D272C95-826D-7FFA-065E-B3330CEAC0FE" value="true"/>
 </engineerTo>
 <pk>true</pk>
 <usedAttributes>
-<attributeRef>D1223D93-054D-3B8E-F5AD-0F63FA27D48A</attributeRef>
+<attributeRef>F420658D-7C2D-FDF0-6AC7-ED9EB3A977C4</attributeRef>
 </usedAttributes>
 </identifier>
 </identifiers>

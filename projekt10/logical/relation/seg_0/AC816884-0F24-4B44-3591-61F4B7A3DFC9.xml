@@ -1,0 +1,22 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Relation class="oracle.dbtools.crest.model.design.logical.Relation" name="Relation_7" directorySegmentName="seg_0" id="AC816884-0F24-4B44-3591-61F4B7A3DFC9">
+<createdBy>Michael Szotkowski</createdBy>
+<createdTime>2024-03-06 08:46:24 UTC</createdTime>
+<ownerDesignName>projekt10</ownerDesignName>
+<engineerTo>
+<item key="1D272C95-826D-7FFA-065E-B3330CEAC0FE" value="true"/>
+</engineerTo>
+<sourcePk>B6AAD1F2-79B4-4603-5833-9352CC811AAD</sourcePk>
+<targetPk>A7857921-885E-9E0C-03EB-388D7F571CBE</targetPk>
+<identifying>false</identifying>
+<nameOnSource>sklizeno</nameOnSource>
+<nameOnTarget>provest</nameOnTarget>
+<optionalSource>false</optionalSource>
+<optionalTarget>false</optionalTarget>
+<sourceCardinality>*</sourceCardinality>
+<sourceEntity>C7292D74-CE69-143F-8075-A3EE60D7D496</sourceEntity>
+<targetCardinalityString>1</targetCardinalityString>
+<targetEntity>8BA35735-1ECF-E496-7FEB-8F5F57EA557A</targetEntity>
+<transferable>true</transferable>
+<deleteRule>NO ACTION</deleteRule>
+</Relation>

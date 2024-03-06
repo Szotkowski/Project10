@@ -1,9 +1,8 @@
 <?xml version = '1.0' encoding = 'UTF-8'?>
-<Entity class="oracle.dbtools.crest.model.design.logical.Entity" directorySegmentName="seg_0" id="57ACCD1C-144C-17D4-515D-DABCC26187F0" name="Postrik">
+<Entity class="oracle.dbtools.crest.model.design.logical.Entity" directorySegmentName="seg_0" id="0DAD111C-2D62-105E-DEFB-620EE2A0049B" name="Podilnik">
 <createdBy>Michael Szotkowski</createdBy>
-<createdTime>2024-03-02 21:55:49 UTC</createdTime>
+<createdTime>2024-03-06 07:52:07 UTC</createdTime>
 <ownerDesignName>projekt10</ownerDesignName>
-<importedID>9570295F-C823-17E0-863D-8F48784CBB66</importedID>
 <engineerTo>
 <item key="1D272C95-826D-7FFA-065E-B3330CEAC0FE" value="true"/>
 </engineerTo>
@@ -16,53 +15,40 @@
 <minVolumes>0</minVolumes>
 <normalForm>Third</normalForm>
 <attributes itemClass="oracle.dbtools.crest.model.design.logical.Attribute">
-<Attribute name="id_postrik" id="645A3892-3A35-3727-F5B0-14A1D889F1F9">
+<Attribute name="id_podilnik" id="BC00310E-B361-2D90-D1A9-3C0826010EE3">
 <createdBy>Michael Szotkowski</createdBy>
-<createdTime>2024-03-02 21:55:49 UTC</createdTime>
+<createdTime>2024-03-06 07:52:15 UTC</createdTime>
 <ownerDesignName>projekt10</ownerDesignName>
-<importedID>D686A923-EACB-624E-87FD-637812650225</importedID>
 <engineerTo>
 <item key="1D272C95-826D-7FFA-065E-B3330CEAC0FE" value="true"/>
 </engineerTo>
 <use>0</use>
 <ownDataTypeParameters>,,</ownDataTypeParameters>
 </Attribute>
-<Attribute name="datum_postriku" id="2853C3EC-96BF-5595-977D-42F56D99DA8D">
+<Attribute name="id_pracovnik" id="D0196C59-CB8B-3890-BBC9-F1AE75D811C9">
 <createdBy>Michael Szotkowski</createdBy>
-<createdTime>2024-03-02 21:55:49 UTC</createdTime>
-<ownerDesignName>projekt10</ownerDesignName>
-<importedID>746C51CB-5A77-BD41-617A-2FF77EDAEE4F</importedID>
-<engineerTo>
-<item key="1D272C95-826D-7FFA-065E-B3330CEAC0FE" value="true"/>
-</engineerTo>
-<nullsAllowed>true</nullsAllowed>
-<use>0</use>
-<ownDataTypeParameters>,,</ownDataTypeParameters>
-</Attribute>
-<Attribute name="postrikova_latka" id="B3FDA23B-E591-9D32-51FB-5FD718FAFEFC">
-<createdBy>Michael Szotkowski</createdBy>
-<createdTime>2024-03-06 07:53:02 UTC</createdTime>
+<createdTime>2024-03-06 11:08:56 UTC</createdTime>
+<generatorID>37F20048-FC1F-D6A2-0AA4-0E10D45D3A57</generatorID>
 <ownerDesignName>projekt10</ownerDesignName>
 <engineerTo>
 <item key="1D272C95-826D-7FFA-065E-B3330CEAC0FE" value="true"/>
 </engineerTo>
-<nullsAllowed>true</nullsAllowed>
+<referedAttribute>2BAEC271-DAF5-F4EE-B42C-997F50028588</referedAttribute>
 <use>0</use>
 <ownDataTypeParameters>,,</ownDataTypeParameters>
 </Attribute>
 </attributes>
 <identifiers itemClass="oracle.dbtools.crest.model.design.logical.CandidateKey">
-<identifier id="98470C45-338E-1163-BF5C-90625A351F2D" name="Postrik PK">
+<identifier id="E7B2052D-0829-29D2-F106-4DF3A7EE8BD6" name="Podilnik PK">
 <createdBy>Michael Szotkowski</createdBy>
-<createdTime>2024-03-02 21:55:49 UTC</createdTime>
+<createdTime>2024-03-06 07:52:21 UTC</createdTime>
 <ownerDesignName>projekt10</ownerDesignName>
-<importedID>A0052F78-5411-89A0-725F-4780CB27BF59</importedID>
 <engineerTo>
 <item key="1D272C95-826D-7FFA-065E-B3330CEAC0FE" value="true"/>
 </engineerTo>
 <pk>true</pk>
 <usedAttributes>
-<attributeRef>645A3892-3A35-3727-F5B0-14A1D889F1F9</attributeRef>
+<attributeRef>BC00310E-B361-2D90-D1A9-3C0826010EE3</attributeRef>
 </usedAttributes>
 </identifier>
 </identifiers>
