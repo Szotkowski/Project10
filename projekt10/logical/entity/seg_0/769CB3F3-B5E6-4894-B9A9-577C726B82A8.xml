@@ -1,9 +1,8 @@
 <?xml version = '1.0' encoding = 'UTF-8'?>
-<Entity class="oracle.dbtools.crest.model.design.logical.Entity" directorySegmentName="seg_0" id="8BA35735-1ECF-E496-7FEB-8F5F57EA557A" name="Sklizen">
+<Entity class="oracle.dbtools.crest.model.design.logical.Entity" directorySegmentName="seg_0" id="769CB3F3-B5E6-4894-B9A9-577C726B82A8" name="Ovoce">
 <createdBy>Michael Szotkowski</createdBy>
-<createdTime>2024-03-02 21:55:49 UTC</createdTime>
+<createdTime>2024-03-06 07:37:40 UTC</createdTime>
 <ownerDesignName>projekt10</ownerDesignName>
-<importedID>4EBDA032-EF46-3F28-E0EF-E01360F467AC</importedID>
 <engineerTo>
 <item key="1D272C95-826D-7FFA-065E-B3330CEAC0FE" value="true"/>
 </engineerTo>
@@ -16,33 +15,33 @@
 <minVolumes>0</minVolumes>
 <normalForm>Third</normalForm>
 <attributes itemClass="oracle.dbtools.crest.model.design.logical.Attribute">
-<Attribute name="id_sklizen" id="C3A836F7-BFB7-E5DC-77AB-9F4AAF98D2F8">
+<Attribute name="id_ovoce" id="909FE7E5-9648-5006-38CC-45915CA6519F">
 <createdBy>Michael Szotkowski</createdBy>
-<createdTime>2024-03-02 21:55:49 UTC</createdTime>
+<createdTime>2024-03-06 07:37:40 UTC</createdTime>
 <ownerDesignName>projekt10</ownerDesignName>
-<importedID>93BC3EE7-ABB0-986C-1863-EDF7C46F55A5</importedID>
+<importedID>45ECC029-94BC-D8BB-C94E-074E7916A652</importedID>
 <engineerTo>
 <item key="1D272C95-826D-7FFA-065E-B3330CEAC0FE" value="true"/>
 </engineerTo>
 <use>0</use>
 <ownDataTypeParameters>,,</ownDataTypeParameters>
 </Attribute>
-<Attribute name="datum_sklizne" id="350E438A-1591-AAFD-F7B3-F10F760A7843">
+<Attribute name="typ_ovoce" id="0A0F180A-D144-D604-F5B6-A3DF6F97B9A4">
 <createdBy>Michael Szotkowski</createdBy>
-<createdTime>2024-03-02 21:55:49 UTC</createdTime>
+<createdTime>2024-03-06 07:37:40 UTC</createdTime>
 <ownerDesignName>projekt10</ownerDesignName>
-<importedID>12A689A4-8CC2-2CC5-973A-2265CFEDEF76</importedID>
+<importedID>F613FDB3-E557-D468-13DA-D601573F6DF0</importedID>
 <engineerTo>
 <item key="1D272C95-826D-7FFA-065E-B3330CEAC0FE" value="true"/>
 </engineerTo>
 <use>0</use>
 <ownDataTypeParameters>,,</ownDataTypeParameters>
 </Attribute>
-<Attribute name="sklizeno_kg" id="E335F1C0-DA81-6818-3CA8-150033CA3D54">
+<Attribute name="odruda_ovoce" id="8D1A401B-7E26-DBE2-A965-2DC6A906FCB5">
 <createdBy>Michael Szotkowski</createdBy>
-<createdTime>2024-03-02 21:55:49 UTC</createdTime>
+<createdTime>2024-03-06 07:37:40 UTC</createdTime>
 <ownerDesignName>projekt10</ownerDesignName>
-<importedID>05757D88-D70A-D064-2281-96FFDCEFA08A</importedID>
+<importedID>0DA89E40-F50A-2D67-DE5E-C55C76302FAE</importedID>
 <engineerTo>
 <item key="1D272C95-826D-7FFA-065E-B3330CEAC0FE" value="true"/>
 </engineerTo>
@@ -51,17 +50,16 @@
 </Attribute>
 </attributes>
 <identifiers itemClass="oracle.dbtools.crest.model.design.logical.CandidateKey">
-<identifier id="A7857921-885E-9E0C-03EB-388D7F571CBE" name="Sklizen PK">
+<identifier id="F2090D61-BBBB-31F2-84A7-8771499E1EBF" name="Ovoce PK">
 <createdBy>Michael Szotkowski</createdBy>
-<createdTime>2024-03-02 21:55:49 UTC</createdTime>
+<createdTime>2024-03-06 07:37:40 UTC</createdTime>
 <ownerDesignName>projekt10</ownerDesignName>
-<importedID>9D2F7DCA-24C8-010B-9112-0A0E0C284DF9</importedID>
 <engineerTo>
 <item key="1D272C95-826D-7FFA-065E-B3330CEAC0FE" value="true"/>
 </engineerTo>
 <pk>true</pk>
 <usedAttributes>
-<attributeRef>C3A836F7-BFB7-E5DC-77AB-9F4AAF98D2F8</attributeRef>
+<attributeRef>909FE7E5-9648-5006-38CC-45915CA6519F</attributeRef>
 </usedAttributes>
 </identifier>
 </identifiers>

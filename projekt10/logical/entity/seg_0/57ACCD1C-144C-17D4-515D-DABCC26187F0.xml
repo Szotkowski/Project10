@@ -27,7 +27,7 @@
 <use>0</use>
 <ownDataTypeParameters>,,</ownDataTypeParameters>
 </Attribute>
-<Attribute name="datum" id="2853C3EC-96BF-5595-977D-42F56D99DA8D">
+<Attribute name="datum_postriku" id="2853C3EC-96BF-5595-977D-42F56D99DA8D">
 <createdBy>Michael Szotkowski</createdBy>
 <createdTime>2024-03-02 21:55:49 UTC</createdTime>
 <ownerDesignName>projekt10</ownerDesignName>
@@ -35,7 +35,28 @@
 <engineerTo>
 <item key="1D272C95-826D-7FFA-065E-B3330CEAC0FE" value="true"/>
 </engineerTo>
-<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="postrikova_latka" id="B3FDA23B-E591-9D32-51FB-5FD718FAFEFC">
+<createdBy>Michael Szotkowski</createdBy>
+<createdTime>2024-03-06 07:53:02 UTC</createdTime>
+<ownerDesignName>projekt10</ownerDesignName>
+<engineerTo>
+<item key="1D272C95-826D-7FFA-065E-B3330CEAC0FE" value="true"/>
+</engineerTo>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="id_sad" id="6A185D35-35A4-A13F-FB4D-DC763D24B099">
+<createdBy>Michael Szotkowski</createdBy>
+<createdTime>2024-03-07 08:03:43 UTC</createdTime>
+<generatorID>46475FA8-AF7E-AD9F-7003-D5CC1A23A3FE</generatorID>
+<ownerDesignName>projekt10</ownerDesignName>
+<engineerTo>
+<item key="1D272C95-826D-7FFA-065E-B3330CEAC0FE" value="true"/>
+</engineerTo>
+<referedAttribute>23A4C354-5231-C7A0-27F5-F2B38E17C444</referedAttribute>
 <use>0</use>
 <ownDataTypeParameters>,,</ownDataTypeParameters>
 </Attribute>

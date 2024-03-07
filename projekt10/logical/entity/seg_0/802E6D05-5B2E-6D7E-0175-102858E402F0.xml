@@ -27,7 +27,7 @@
 <use>0</use>
 <ownDataTypeParameters>,,</ownDataTypeParameters>
 </Attribute>
-<Attribute name="nazev" id="B45F445D-A028-B44C-FD15-CAFA4AEA588F">
+<Attribute name="typ_plodiny" id="B45F445D-A028-B44C-FD15-CAFA4AEA588F">
 <createdBy>Michael Szotkowski</createdBy>
 <createdTime>2024-03-02 21:55:49 UTC</createdTime>
 <ownerDesignName>projekt10</ownerDesignName>
@@ -35,11 +35,10 @@
 <engineerTo>
 <item key="1D272C95-826D-7FFA-065E-B3330CEAC0FE" value="true"/>
 </engineerTo>
-<nullsAllowed>true</nullsAllowed>
 <use>0</use>
 <ownDataTypeParameters>,,</ownDataTypeParameters>
 </Attribute>
-<Attribute name="odruda" id="4C6798CE-2637-9DF4-1AA0-D47E2302D549">
+<Attribute name="odruda_plodiny" id="4C6798CE-2637-9DF4-1AA0-D47E2302D549">
 <createdBy>Michael Szotkowski</createdBy>
 <createdTime>2024-03-02 21:55:49 UTC</createdTime>
 <ownerDesignName>projekt10</ownerDesignName>
@@ -47,7 +46,16 @@
 <engineerTo>
 <item key="1D272C95-826D-7FFA-065E-B3330CEAC0FE" value="true"/>
 </engineerTo>
-<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="datum_zasazeni" id="0B9A0CEF-C7E8-2F31-4BDC-076EE513B011">
+<createdBy>Michael Szotkowski</createdBy>
+<createdTime>2024-03-06 07:57:51 UTC</createdTime>
+<ownerDesignName>projekt10</ownerDesignName>
+<engineerTo>
+<item key="1D272C95-826D-7FFA-065E-B3330CEAC0FE" value="true"/>
+</engineerTo>
 <use>0</use>
 <ownDataTypeParameters>,,</ownDataTypeParameters>
 </Attribute>

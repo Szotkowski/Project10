@@ -1,9 +1,8 @@
 <?xml version = '1.0' encoding = 'UTF-8'?>
-<Entity class="oracle.dbtools.crest.model.design.logical.Entity" directorySegmentName="seg_0" id="8BA35735-1ECF-E496-7FEB-8F5F57EA557A" name="Sklizen">
+<Entity class="oracle.dbtools.crest.model.design.logical.Entity" directorySegmentName="seg_0" id="D4525073-5D12-E305-D230-5455711098B6" name="Prodej">
 <createdBy>Michael Szotkowski</createdBy>
-<createdTime>2024-03-02 21:55:49 UTC</createdTime>
+<createdTime>2024-03-06 09:14:51 UTC</createdTime>
 <ownerDesignName>projekt10</ownerDesignName>
-<importedID>4EBDA032-EF46-3F28-E0EF-E01360F467AC</importedID>
 <engineerTo>
 <item key="1D272C95-826D-7FFA-065E-B3330CEAC0FE" value="true"/>
 </engineerTo>
@@ -16,33 +15,33 @@
 <minVolumes>0</minVolumes>
 <normalForm>Third</normalForm>
 <attributes itemClass="oracle.dbtools.crest.model.design.logical.Attribute">
-<Attribute name="id_sklizen" id="C3A836F7-BFB7-E5DC-77AB-9F4AAF98D2F8">
+<Attribute name="id_prodej" id="F420658D-7C2D-FDF0-6AC7-ED9EB3A977C4">
 <createdBy>Michael Szotkowski</createdBy>
-<createdTime>2024-03-02 21:55:49 UTC</createdTime>
+<createdTime>2024-03-06 09:14:51 UTC</createdTime>
 <ownerDesignName>projekt10</ownerDesignName>
-<importedID>93BC3EE7-ABB0-986C-1863-EDF7C46F55A5</importedID>
+<importedID>E97B4766-CDCE-B61B-E572-982CBB256918</importedID>
 <engineerTo>
 <item key="1D272C95-826D-7FFA-065E-B3330CEAC0FE" value="true"/>
 </engineerTo>
 <use>0</use>
 <ownDataTypeParameters>,,</ownDataTypeParameters>
 </Attribute>
-<Attribute name="datum_sklizne" id="350E438A-1591-AAFD-F7B3-F10F760A7843">
+<Attribute name="kolik_se_prodalo" id="A2C3856B-09A3-ECA5-9A8F-D985BD9CC3B8">
 <createdBy>Michael Szotkowski</createdBy>
-<createdTime>2024-03-02 21:55:49 UTC</createdTime>
+<createdTime>2024-03-06 09:14:51 UTC</createdTime>
 <ownerDesignName>projekt10</ownerDesignName>
-<importedID>12A689A4-8CC2-2CC5-973A-2265CFEDEF76</importedID>
+<importedID>64C772B4-617A-6864-B604-2FF252958EA3</importedID>
 <engineerTo>
 <item key="1D272C95-826D-7FFA-065E-B3330CEAC0FE" value="true"/>
 </engineerTo>
 <use>0</use>
 <ownDataTypeParameters>,,</ownDataTypeParameters>
 </Attribute>
-<Attribute name="sklizeno_kg" id="E335F1C0-DA81-6818-3CA8-150033CA3D54">
+<Attribute name="cena_za_kg" id="D5CAEAF5-09E5-0603-F3AA-E50ACD428F31">
 <createdBy>Michael Szotkowski</createdBy>
-<createdTime>2024-03-02 21:55:49 UTC</createdTime>
+<createdTime>2024-03-06 09:14:51 UTC</createdTime>
 <ownerDesignName>projekt10</ownerDesignName>
-<importedID>05757D88-D70A-D064-2281-96FFDCEFA08A</importedID>
+<importedID>351E47C9-21DA-AB63-D5D0-E1BE97184EA8</importedID>
 <engineerTo>
 <item key="1D272C95-826D-7FFA-065E-B3330CEAC0FE" value="true"/>
 </engineerTo>
@@ -51,17 +50,16 @@
 </Attribute>
 </attributes>
 <identifiers itemClass="oracle.dbtools.crest.model.design.logical.CandidateKey">
-<identifier id="A7857921-885E-9E0C-03EB-388D7F571CBE" name="Sklizen PK">
+<identifier id="53A3C174-A618-99FF-E377-353033E6A79B" name="prodej PK">
 <createdBy>Michael Szotkowski</createdBy>
-<createdTime>2024-03-02 21:55:49 UTC</createdTime>
+<createdTime>2024-03-06 09:14:51 UTC</createdTime>
 <ownerDesignName>projekt10</ownerDesignName>
-<importedID>9D2F7DCA-24C8-010B-9112-0A0E0C284DF9</importedID>
 <engineerTo>
 <item key="1D272C95-826D-7FFA-065E-B3330CEAC0FE" value="true"/>
 </engineerTo>
 <pk>true</pk>
 <usedAttributes>
-<attributeRef>C3A836F7-BFB7-E5DC-77AB-9F4AAF98D2F8</attributeRef>
+<attributeRef>F420658D-7C2D-FDF0-6AC7-ED9EB3A977C4</attributeRef>
 </usedAttributes>
 </identifier>
 </identifiers>

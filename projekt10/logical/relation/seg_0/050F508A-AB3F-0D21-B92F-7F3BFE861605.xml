@@ -1,0 +1,22 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Relation class="oracle.dbtools.crest.model.design.logical.Relation" name="Relation_11" directorySegmentName="seg_0" id="050F508A-AB3F-0D21-B92F-7F3BFE861605">
+<createdBy>Michael Szotkowski</createdBy>
+<createdTime>2024-03-06 08:52:49 UTC</createdTime>
+<ownerDesignName>projekt10</ownerDesignName>
+<engineerTo>
+<item key="1D272C95-826D-7FFA-065E-B3330CEAC0FE" value="true"/>
+</engineerTo>
+<sourcePk>9CB608FD-3EB5-9D30-ABF7-3B1162FF0729</sourcePk>
+<arc>271279E9-2FA4-739D-4D0B-97516377B225</arc>
+<identifying>false</identifying>
+<nameOnSource>obsahovat</nameOnSource>
+<nameOnTarget>patri</nameOnTarget>
+<optionalSource>false</optionalSource>
+<optionalTarget>true</optionalTarget>
+<sourceCardinality>1</sourceCardinality>
+<sourceEntity>240B3217-D44B-2356-093D-E358F549E022</sourceEntity>
+<targetCardinalityString>*</targetCardinalityString>
+<targetEntity>C7292D74-CE69-143F-8075-A3EE60D7D496</targetEntity>
+<transferable>true</transferable>
+<deleteRule>NO ACTION</deleteRule>
+</Relation>
