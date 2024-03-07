@@ -10,8 +10,8 @@
 <identifying>false</identifying>
 <nameOnSource>byl vykonan</nameOnSource>
 <nameOnTarget>vykonal</nameOnTarget>
-<optionalSource>false</optionalSource>
-<optionalTarget>false</optionalTarget>
+<optionalSource>true</optionalSource>
+<optionalTarget>true</optionalTarget>
 <sourceCardinality>*</sourceCardinality>
 <sourceEntity>57ACCD1C-144C-17D4-515D-DABCC26187F0</sourceEntity>
 <targetCardinalityString>*</targetCardinalityString>

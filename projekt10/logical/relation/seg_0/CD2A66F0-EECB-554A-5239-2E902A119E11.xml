@@ -10,9 +10,9 @@
 <identifying>false</identifying>
 <nameOnSource>provest</nameOnSource>
 <nameOnTarget>sklizeno</nameOnTarget>
-<optionalSource>false</optionalSource>
-<optionalTarget>false</optionalTarget>
-<sourceCardinality>1</sourceCardinality>
+<optionalSource>true</optionalSource>
+<optionalTarget>true</optionalTarget>
+<sourceCardinality>*</sourceCardinality>
 <sourceEntity>8BA35735-1ECF-E496-7FEB-8F5F57EA557A</sourceEntity>
 <targetCardinalityString>*</targetCardinalityString>
 <targetEntity>8892A5FA-A8F7-32CC-1A2F-3F70CEB17167</targetEntity>

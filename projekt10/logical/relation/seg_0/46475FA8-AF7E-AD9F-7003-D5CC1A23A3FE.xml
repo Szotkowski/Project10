@@ -7,14 +7,15 @@
 <item key="1D272C95-826D-7FFA-065E-B3330CEAC0FE" value="true"/>
 </engineerTo>
 <sourcePk>98470C45-338E-1163-BF5C-90625A351F2D</sourcePk>
+<targetPk>B6AAD1F2-79B4-4603-5833-9352CC811AAD</targetPk>
 <identifying>false</identifying>
 <nameOnSource>strikat</nameOnSource>
 <nameOnTarget>pouzivat</nameOnTarget>
 <optionalSource>false</optionalSource>
-<optionalTarget>false</optionalTarget>
+<optionalTarget>true</optionalTarget>
 <sourceCardinality>1</sourceCardinality>
 <sourceEntity>57ACCD1C-144C-17D4-515D-DABCC26187F0</sourceEntity>
-<targetCardinalityString>*</targetCardinalityString>
+<targetCardinalityString>1</targetCardinalityString>
 <targetEntity>C7292D74-CE69-143F-8075-A3EE60D7D496</targetEntity>
 <transferable>true</transferable>
 <deleteRule>NO ACTION</deleteRule>

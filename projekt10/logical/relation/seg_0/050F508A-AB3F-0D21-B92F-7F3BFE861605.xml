@@ -12,7 +12,7 @@
 <nameOnSource>obsahovat</nameOnSource>
 <nameOnTarget>patri</nameOnTarget>
 <optionalSource>false</optionalSource>
-<optionalTarget>false</optionalTarget>
+<optionalTarget>true</optionalTarget>
 <sourceCardinality>1</sourceCardinality>
 <sourceEntity>240B3217-D44B-2356-093D-E358F549E022</sourceEntity>
 <targetCardinalityString>*</targetCardinalityString>

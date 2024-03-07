@@ -10,8 +10,8 @@
 <identifying>false</identifying>
 <nameOnSource>se provadi</nameOnSource>
 <nameOnTarget>se kona</nameOnTarget>
-<optionalSource>false</optionalSource>
-<optionalTarget>false</optionalTarget>
+<optionalSource>true</optionalSource>
+<optionalTarget>true</optionalTarget>
 <sourceCardinality>*</sourceCardinality>
 <sourceEntity>8892A5FA-A8F7-32CC-1A2F-3F70CEB17167</sourceEntity>
 <targetCardinalityString>*</targetCardinalityString>

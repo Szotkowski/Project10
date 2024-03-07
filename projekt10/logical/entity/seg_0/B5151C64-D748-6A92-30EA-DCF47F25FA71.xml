@@ -35,7 +35,6 @@
 <engineerTo>
 <item key="1D272C95-826D-7FFA-065E-B3330CEAC0FE" value="true"/>
 </engineerTo>
-<nullsAllowed>true</nullsAllowed>
 <use>0</use>
 <ownDataTypeParameters>,,</ownDataTypeParameters>
 </Attribute>
@@ -51,9 +50,9 @@
 <use>0</use>
 <ownDataTypeParameters>,,</ownDataTypeParameters>
 </Attribute>
-<Attribute name="id_ovoce" id="71FA9A58-6E6B-5DDC-2F4A-D1340E73B0A0">
+<Attribute name="id_ovoce" id="06F8A8CC-D676-1BAE-A180-685D19EA9880">
 <createdBy>Michael Szotkowski</createdBy>
-<createdTime>2024-03-06 08:30:42 UTC</createdTime>
+<createdTime>2024-03-07 08:15:52 UTC</createdTime>
 <generatorID>17B74EA6-C15A-CFE1-FD7D-61CF351234C3</generatorID>
 <ownerDesignName>projekt10</ownerDesignName>
 <engineerTo>

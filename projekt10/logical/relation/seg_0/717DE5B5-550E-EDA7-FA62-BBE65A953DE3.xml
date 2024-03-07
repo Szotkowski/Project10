@@ -10,8 +10,8 @@
 <identifying>false</identifying>
 <nameOnSource>vykonal</nameOnSource>
 <nameOnTarget>byla vykonana</nameOnTarget>
-<optionalSource>false</optionalSource>
-<optionalTarget>false</optionalTarget>
+<optionalSource>true</optionalSource>
+<optionalTarget>true</optionalTarget>
 <sourceCardinality>*</sourceCardinality>
 <sourceEntity>A0F3123E-719C-11E5-138E-305008F520E9</sourceEntity>
 <targetCardinalityString>*</targetCardinalityString>

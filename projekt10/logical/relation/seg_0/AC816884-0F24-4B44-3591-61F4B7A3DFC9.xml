@@ -11,11 +11,11 @@
 <identifying>false</identifying>
 <nameOnSource>sklizeno</nameOnSource>
 <nameOnTarget>provest</nameOnTarget>
-<optionalSource>false</optionalSource>
-<optionalTarget>false</optionalTarget>
+<optionalSource>true</optionalSource>
+<optionalTarget>true</optionalTarget>
 <sourceCardinality>*</sourceCardinality>
 <sourceEntity>C7292D74-CE69-143F-8075-A3EE60D7D496</sourceEntity>
-<targetCardinalityString>1</targetCardinalityString>
+<targetCardinalityString>*</targetCardinalityString>
 <targetEntity>8BA35735-1ECF-E496-7FEB-8F5F57EA557A</targetEntity>
 <transferable>true</transferable>
 <deleteRule>NO ACTION</deleteRule>

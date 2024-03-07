@@ -11,9 +11,9 @@
 <identifying>false</identifying>
 <nameOnSource>strihalo</nameOnSource>
 <nameOnTarget>pouzivat</nameOnTarget>
-<optionalSource>false</optionalSource>
+<optionalSource>true</optionalSource>
 <optionalTarget>false</optionalTarget>
-<sourceCardinality>*</sourceCardinality>
+<sourceCardinality>1</sourceCardinality>
 <sourceEntity>C7292D74-CE69-143F-8075-A3EE60D7D496</sourceEntity>
 <targetCardinalityString>1</targetCardinalityString>
 <targetEntity>0D4C43D4-A3B1-0C43-755E-085803AD8397</targetEntity>

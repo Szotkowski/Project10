@@ -35,7 +35,6 @@
 <engineerTo>
 <item key="1D272C95-826D-7FFA-065E-B3330CEAC0FE" value="true"/>
 </engineerTo>
-<nullsAllowed>true</nullsAllowed>
 <use>0</use>
 <ownDataTypeParameters>,,</ownDataTypeParameters>
 </Attribute>
@@ -47,7 +46,6 @@
 <engineerTo>
 <item key="1D272C95-826D-7FFA-065E-B3330CEAC0FE" value="true"/>
 </engineerTo>
-<nullsAllowed>true</nullsAllowed>
 <use>0</use>
 <ownDataTypeParameters>,,</ownDataTypeParameters>
 </Attribute>
@@ -58,7 +56,6 @@
 <engineerTo>
 <item key="1D272C95-826D-7FFA-065E-B3330CEAC0FE" value="true"/>
 </engineerTo>
-<nullsAllowed>true</nullsAllowed>
 <use>0</use>
 <ownDataTypeParameters>,,</ownDataTypeParameters>
 </Attribute>

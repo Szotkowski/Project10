@@ -34,7 +34,6 @@
 <engineerTo>
 <item key="1D272C95-826D-7FFA-065E-B3330CEAC0FE" value="true"/>
 </engineerTo>
-<nullsAllowed>true</nullsAllowed>
 <use>0</use>
 <ownDataTypeParameters>,,</ownDataTypeParameters>
 </Attribute>
@@ -45,43 +44,6 @@
 <engineerTo>
 <item key="1D272C95-826D-7FFA-065E-B3330CEAC0FE" value="true"/>
 </engineerTo>
-<nullsAllowed>true</nullsAllowed>
-<use>0</use>
-<ownDataTypeParameters>,,</ownDataTypeParameters>
-</Attribute>
-<Attribute name="id_postrik" id="BE399EBC-7D58-D2EE-5D40-26D09768831E">
-<createdBy>Michael Szotkowski</createdBy>
-<createdTime>2024-03-06 08:35:34 UTC</createdTime>
-<generatorID>46475FA8-AF7E-AD9F-7003-D5CC1A23A3FE</generatorID>
-<ownerDesignName>projekt10</ownerDesignName>
-<engineerTo>
-<item key="1D272C95-826D-7FFA-065E-B3330CEAC0FE" value="true"/>
-</engineerTo>
-<referedAttribute>645A3892-3A35-3727-F5B0-14A1D889F1F9</referedAttribute>
-<use>0</use>
-<ownDataTypeParameters>,,</ownDataTypeParameters>
-</Attribute>
-<Attribute name="id_sklizen" id="106CB154-1743-4224-AA53-F301DB3554D9">
-<createdBy>Michael Szotkowski</createdBy>
-<createdTime>2024-03-06 08:46:34 UTC</createdTime>
-<generatorID>AC816884-0F24-4B44-3591-61F4B7A3DFC9</generatorID>
-<ownerDesignName>projekt10</ownerDesignName>
-<engineerTo>
-<item key="1D272C95-826D-7FFA-065E-B3330CEAC0FE" value="true"/>
-</engineerTo>
-<referedAttribute>C3A836F7-BFB7-E5DC-77AB-9F4AAF98D2F8</referedAttribute>
-<use>0</use>
-<ownDataTypeParameters>,,</ownDataTypeParameters>
-</Attribute>
-<Attribute name="id_strihani" id="A0E2431D-8CAE-C34D-6139-D6C26BB4CF85">
-<createdBy>Michael Szotkowski</createdBy>
-<createdTime>2024-03-06 08:50:03 UTC</createdTime>
-<generatorID>CF8341BB-C4DD-3F84-0453-6D69927CF8FE</generatorID>
-<ownerDesignName>projekt10</ownerDesignName>
-<engineerTo>
-<item key="1D272C95-826D-7FFA-065E-B3330CEAC0FE" value="true"/>
-</engineerTo>
-<referedAttribute>67DC0B4D-B625-2F4C-DB1B-9574C2148095</referedAttribute>
 <use>0</use>
 <ownDataTypeParameters>,,</ownDataTypeParameters>
 </Attribute>
@@ -93,6 +55,7 @@
 <engineerTo>
 <item key="1D272C95-826D-7FFA-065E-B3330CEAC0FE" value="true"/>
 </engineerTo>
+<nullsAllowed>true</nullsAllowed>
 <referedAttribute>5910D6D0-AC77-6025-F7F5-A3409540F7F4</referedAttribute>
 <use>0</use>
 <ownDataTypeParameters>,,</ownDataTypeParameters>

@@ -12,7 +12,7 @@
 <nameOnSource>obsahovat</nameOnSource>
 <nameOnTarget>rust</nameOnTarget>
 <optionalSource>false</optionalSource>
-<optionalTarget>false</optionalTarget>
+<optionalTarget>true</optionalTarget>
 <sourceCardinality>*</sourceCardinality>
 <sourceEntity>B5151C64-D748-6A92-30EA-DCF47F25FA71</sourceEntity>
 <targetCardinalityString>1</targetCardinalityString>
