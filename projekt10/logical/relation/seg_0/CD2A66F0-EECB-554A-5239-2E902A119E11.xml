@@ -8,8 +8,8 @@
 </engineerTo>
 <sourcePk>A7857921-885E-9E0C-03EB-388D7F571CBE</sourcePk>
 <identifying>false</identifying>
-<nameOnSource>provest</nameOnSource>
-<nameOnTarget>sklizeno</nameOnTarget>
+<nameOnSource>byla provedena</nameOnSource>
+<nameOnTarget>byla provedena</nameOnTarget>
 <optionalSource>true</optionalSource>
 <optionalTarget>true</optionalTarget>
 <sourceCardinality>*</sourceCardinality>

@@ -7,10 +7,9 @@
 <item key="1D272C95-826D-7FFA-065E-B3330CEAC0FE" value="true"/>
 </engineerTo>
 <sourcePk>B6AAD1F2-79B4-4603-5833-9352CC811AAD</sourcePk>
-<targetPk>A7857921-885E-9E0C-03EB-388D7F571CBE</targetPk>
 <identifying>false</identifying>
-<nameOnSource>sklizeno</nameOnSource>
-<nameOnTarget>provest</nameOnTarget>
+<nameOnSource>byla provedana</nameOnSource>
+<nameOnTarget>byla provedana</nameOnTarget>
 <optionalSource>true</optionalSource>
 <optionalTarget>true</optionalTarget>
 <sourceCardinality>*</sourceCardinality>

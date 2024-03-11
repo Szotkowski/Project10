@@ -8,8 +8,8 @@
 </engineerTo>
 <sourcePk>2739F69A-20A7-8DE2-FAF6-38E012DBEE85</sourcePk>
 <identifying>false</identifying>
-<nameOnSource>se kona</nameOnSource>
-<nameOnTarget>se provadi</nameOnTarget>
+<nameOnSource>bylo pouzito</nameOnSource>
+<nameOnTarget>bylo pouzito</nameOnTarget>
 <optionalSource>true</optionalSource>
 <optionalTarget>true</optionalTarget>
 <sourceCardinality>*</sourceCardinality>

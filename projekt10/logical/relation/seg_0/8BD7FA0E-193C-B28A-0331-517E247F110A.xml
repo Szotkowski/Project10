@@ -9,6 +9,8 @@
 <sourcePk>989E6C0A-EBA0-3631-1F32-8436C9FA46D5</sourcePk>
 <targetPk>53A3C174-A618-99FF-E377-353033E6A79B</targetPk>
 <identifying>false</identifying>
+<nameOnSource>patri do</nameOnSource>
+<nameOnTarget>prodal</nameOnTarget>
 <optionalSource>true</optionalSource>
 <optionalTarget>true</optionalTarget>
 <sourceCardinality>*</sourceCardinality>

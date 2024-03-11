@@ -7,6 +7,8 @@
 <item key="1D272C95-826D-7FFA-065E-B3330CEAC0FE" value="true"/>
 </engineerTo>
 <identifying>false</identifying>
+<nameOnSource>patri do</nameOnSource>
+<nameOnTarget>prodal</nameOnTarget>
 <optionalSource>true</optionalSource>
 <optionalTarget>true</optionalTarget>
 <sourceCardinality>*</sourceCardinality>

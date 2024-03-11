@@ -7,10 +7,9 @@
 <item key="1D272C95-826D-7FFA-065E-B3330CEAC0FE" value="true"/>
 </engineerTo>
 <sourcePk>B6AAD1F2-79B4-4603-5833-9352CC811AAD</sourcePk>
-<targetPk>41679900-6FB5-BF8A-2E38-18CE4B088C35</targetPk>
 <identifying>false</identifying>
-<nameOnSource>strihalo</nameOnSource>
-<nameOnTarget>pouzivat</nameOnTarget>
+<nameOnSource>byl použit</nameOnSource>
+<nameOnTarget>bylo použito</nameOnTarget>
 <optionalSource>true</optionalSource>
 <optionalTarget>false</optionalTarget>
 <sourceCardinality>1</sourceCardinality>
