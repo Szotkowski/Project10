@@ -9,8 +9,8 @@
 <sourcePk>9CB608FD-3EB5-9D30-ABF7-3B1162FF0729</sourcePk>
 <arc>271279E9-2FA4-739D-4D0B-97516377B225</arc>
 <identifying>false</identifying>
-<nameOnSource>obsahovat</nameOnSource>
-<nameOnTarget>patri</nameOnTarget>
+<nameOnSource>obsahuje</nameOnSource>
+<nameOnTarget>patri do</nameOnTarget>
 <optionalSource>false</optionalSource>
 <optionalTarget>true</optionalTarget>
 <sourceCardinality>1</sourceCardinality>

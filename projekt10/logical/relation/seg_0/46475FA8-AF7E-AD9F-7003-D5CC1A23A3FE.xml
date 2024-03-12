@@ -9,8 +9,8 @@
 <sourcePk>98470C45-338E-1163-BF5C-90625A351F2D</sourcePk>
 <targetPk>B6AAD1F2-79B4-4603-5833-9352CC811AAD</targetPk>
 <identifying>false</identifying>
-<nameOnSource>strikat</nameOnSource>
-<nameOnTarget>pouzivat</nameOnTarget>
+<nameOnSource>byl pouzit</nameOnSource>
+<nameOnTarget>byl pouzit</nameOnTarget>
 <optionalSource>false</optionalSource>
 <optionalTarget>true</optionalTarget>
 <sourceCardinality>1</sourceCardinality>

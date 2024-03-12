@@ -9,8 +9,8 @@
 <sourcePk>103C42EC-4B7D-59B0-E64A-E5353BF96AEA</sourcePk>
 <targetPk>B6AAD1F2-79B4-4603-5833-9352CC811AAD</targetPk>
 <identifying>false</identifying>
-<nameOnSource>vysazen</nameOnSource>
-<nameOnTarget>obsahovat</nameOnTarget>
+<nameOnSource>je vysazen</nameOnSource>
+<nameOnTarget>obsahuje</nameOnTarget>
 <optionalSource>false</optionalSource>
 <optionalTarget>true</optionalTarget>
 <sourceCardinality>*</sourceCardinality>

@@ -10,7 +10,7 @@
 <targetPk>FDEE8B1D-DDAA-08A5-008C-3C9190B8F0CE</targetPk>
 <identifying>false</identifying>
 <nameOnSource>obsahuje</nameOnSource>
-<nameOnTarget>vysazeno</nameOnTarget>
+<nameOnTarget>byla vysazena</nameOnTarget>
 <optionalSource>false</optionalSource>
 <optionalTarget>true</optionalTarget>
 <sourceCardinality>*</sourceCardinality>

@@ -9,8 +9,8 @@
 <sourcePk>103C42EC-4B7D-59B0-E64A-E5353BF96AEA</sourcePk>
 <targetPk>F2090D61-BBBB-31F2-84A7-8771499E1EBF</targetPk>
 <identifying>false</identifying>
-<nameOnSource>obsahovat</nameOnSource>
-<nameOnTarget>rust</nameOnTarget>
+<nameOnSource>obsahuje</nameOnSource>
+<nameOnTarget>roste</nameOnTarget>
 <optionalSource>false</optionalSource>
 <optionalTarget>true</optionalTarget>
 <sourceCardinality>*</sourceCardinality>

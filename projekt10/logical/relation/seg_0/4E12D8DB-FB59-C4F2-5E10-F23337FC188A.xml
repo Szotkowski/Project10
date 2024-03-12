@@ -9,7 +9,7 @@
 <sourcePk>98470C45-338E-1163-BF5C-90625A351F2D</sourcePk>
 <identifying>false</identifying>
 <nameOnSource>byl vykonan</nameOnSource>
-<nameOnTarget>vykonal</nameOnTarget>
+<nameOnTarget>vykonala</nameOnTarget>
 <optionalSource>true</optionalSource>
 <optionalTarget>true</optionalTarget>
 <sourceCardinality>*</sourceCardinality>
